@@ -1,1 +1,0 @@
-create table userinfo(id int primary key auto_increment, name varchar(32), email varchar(64), password varchar(128), roles varchar(64));
